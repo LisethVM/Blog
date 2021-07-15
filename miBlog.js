@@ -1,1 +1,1 @@
-alert("Hola a todos, este es mi blog")
+alert("Hola a todos, este es mi blog yes");
